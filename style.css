@@ -1,4 +1,22 @@
-
+  marquee {
+    background: #ffcc00;
+    color: #990000;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 6px;
+    border-top: 3px dashed #990000;
+    border-bottom: 3px dashed #990000;
+  }
+  .topbar {
+    background: linear-gradient(#ffffff, #ccccff);
+    text-align: center;
+    padding: 4px;
+    font-size: 11px;
+    color: #333366;
+    border-bottom: 4px ridge #6666cc;
+  }
+  
+  
   .boton {
     background: linear-gradient(#ffff99, #ffcc00);
     border: 2px outset #996600;
